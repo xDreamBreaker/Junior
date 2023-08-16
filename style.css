@@ -1,1 +1,26 @@
+/*Отменяем все изначальные стили котоыре применяются ХТМЛ*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+
+/* BASE STYLES */
+body {
+    padding: 20px;
+    background-color: #e1e6f2;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+.services {
+    text-align: left;
+}
+
+.partners {
+    text-align: left;
+}
+/* end BASE STYLES */
